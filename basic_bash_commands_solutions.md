@@ -11,21 +11,21 @@ sudo ls -lhS /var/log/* | sort -h
 
 **Exercise 3**
 ```
-nano haluk.txt
+nano Haluk.txt
 ```
 
 **Exercise 4**
 ```
-echo "PARMAKSIZ" > parmaksiz.txt
+echo "PARMAKSIZ" > Parmaksiz.txt
 ```
 **Exercise 5**
 ```
-cat haluk.txt
-cat parmaksiz.txt
+cat Haluk.txt
+cat Parmaksiz.txt
 ```
 **Exercise 6**
 ```
-cat parmaksiz.txt >> haluk.txt
+cat Parmaksiz.txt >> Haluk.txt
 ```
 **Exercise 7**
 ```
