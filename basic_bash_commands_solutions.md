@@ -6,5 +6,28 @@ ls -l
 
 **Exercise 2**
 ```
-ls -lhSr
+sudo ls -lhS /var/log/* | sort -h
+```
+
+**Exercise 3**
+```
+nano haluk.txt
+```
+
+**Exercise 4**
+```
+echo "PARMAKSIZ" > parmaksiz.txt
+```
+**Exercise 5**
+```
+cat haluk.txt
+cat parmaksiz.txt
+```
+**Exercise 6**
+```
+cat ekingen.txt >> arda.txt
+```
+**Exercise 7**
+```
+ls -d */ > folders_list.txt
 ```
