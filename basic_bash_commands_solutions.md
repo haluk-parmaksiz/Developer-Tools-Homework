@@ -25,7 +25,7 @@ cat parmaksiz.txt
 ```
 **Exercise 6**
 ```
-cat ekingen.txt >> arda.txt
+cat parmaksiz.txt >> haluk.txt
 ```
 **Exercise 7**
 ```
